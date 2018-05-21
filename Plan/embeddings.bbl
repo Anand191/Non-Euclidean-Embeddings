@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Mikolov et~al.(2013)Mikolov, Sutskever, Chen, Corrado, and
+  Dean]{Mikolov2013}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock {Distributed Representations of Words and Phrases and their
+  Compositionality}.
+\newblock pages 1--9, 2013.
+\newblock ISSN 10495258.
+\newblock \doi{10.1162/jmlr.2003.3.4-5.951}.
+\newblock URL \url{http://arxiv.org/abs/1310.4546}.
+
+\end{thebibliography}
